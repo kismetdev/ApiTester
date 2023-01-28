@@ -31,7 +31,7 @@ namespace ApiTester
         {
             using (var client = new HttpClient())
             {
-                client.DefaultRequestHeaders.Add("User-Agent", "omg c# app");
+                client.DefaultRequestHeaders.Add("User-Agent", "Simple API tester");
 
                 HttpResponseMessage response;
                 if (method == "GET")
