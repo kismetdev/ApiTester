@@ -12,5 +12,6 @@ Code is not the best, but that wasn't the point of this Project 😶.
 ## Usage
 
 1. Open Solution with <a href="https://visualstudio.microsoft.com/">Visual Studio</a>
-2. change Debug -> Release and Compile
+2. Change Debug -> Release and Compile  
+*(2.5. Unblock Form1.resx cause of mark of the web)*
 3. Test some API's 😎
